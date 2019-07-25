@@ -1,0 +1,7 @@
+F:\kuliah\finalproject\finalproject\bin\Debug\finalproject.exe.config
+F:\kuliah\finalproject\finalproject\bin\Debug\finalproject.exe
+F:\kuliah\finalproject\finalproject\bin\Debug\finalproject.pdb
+F:\kuliah\finalproject\finalproject\obj\Debug\finalproject.csprojAssemblyReference.cache
+F:\kuliah\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+F:\kuliah\finalproject\finalproject\obj\Debug\finalproject.exe
+F:\kuliah\finalproject\finalproject\obj\Debug\finalproject.pdb
